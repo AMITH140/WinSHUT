@@ -21,7 +21,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/WinShut.git
+   git clone https://github.com/AMITH140/WinSHUT
    ```
 
 2. Install the required dependencies:
