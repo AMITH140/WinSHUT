@@ -39,7 +39,7 @@
 4. Run the application:
 
    ```bash
-   python main.py
+   python winshut.py
    ```
 
 ## Usage
